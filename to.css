@@ -1,0 +1,56 @@
+
+body {font-family: Arial, Helvetica, sans-serif;
+    background-color: (rgb(245, 245, 245)) ;
+    line-height: 1.6;
+    }
+    .header {
+        background-color: #B84800;
+        color: #FAD232;
+        text-align: center;
+        line-height: 100px;
+        height: 100px;
+    }
+    .header :hover{
+        background-color: #d4580a;
+    }
+    .about {
+        background-color: #B84800;
+        color: #FAD232;
+        text-align: center;
+        height: 100px;
+        
+    }
+    .about p{
+        color: aliceblue;
+    }
+    .about :hover{
+        background-color: #d4580a;
+    }
+    
+    
+    .book-list{
+        background-color: #B84800;
+        text-align: center;
+        color: #FAD232;
+    }
+    .book-list img {
+        width: 186px;
+        height: 272px;
+    }
+    .book-list :hover{
+        background-color: #d4580a;
+    }
+    
+    
+    .event {
+        background-color: #B84800;
+        color: #FAD232;
+        text-align: center;
+    }
+    .event p{
+        color: aliceblue;
+    }
+    .event :hover{
+        background-color: #d4580a;
+
+    }
